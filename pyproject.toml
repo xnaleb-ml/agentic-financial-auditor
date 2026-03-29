@@ -1,0 +1,7 @@
+[project]
+name = "agentic-financial-auditor"
+version = "0.1.0"
+description = "A dual-architecture agentic RAG pipeline for auditing SEC filings. Version 1 features a FastAPI backend powered by cloud LLMs. Version 2 is fully localized, serving open-weight models via vLLM. Built with LangGraph and evaluated on FinanceBench."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
