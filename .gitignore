@@ -10,6 +10,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Linters and Formatters
+.ruff_cache/
+
 # Vector DB local storage
 data_store/
 
