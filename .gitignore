@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vector DB local storage
+data_store/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files (macOS/Windows)
+.DS_Store
+Thumbs.db
+
+# Jupyter 
+.ipynb_checkpoints/
